@@ -1,3 +1,10 @@
+/*
+Consulta: Stock Seguro Pensionado
+Autor: Gustavo Navarro Zapata
+Descripción: Obtiene el stock vigente de clientes para Seguro Pensionado
+Última actualización: 2026-09-21
+*/
+
 SELECT 
   c.npolicy AS POLIZA,
   c.ncertif AS CERTIF,
