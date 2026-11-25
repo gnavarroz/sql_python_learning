@@ -54,4 +54,4 @@ WHERE p.scertype = '2'
   AND p.nbranch = 7
   AND mo.ntype = 2
   AND p.nproduct = 29
-  AND mo.dledgerdat = 'AAAA-MM-AA'
+  AND mo.dledgerdat = 'YYYY-MM-DD'
